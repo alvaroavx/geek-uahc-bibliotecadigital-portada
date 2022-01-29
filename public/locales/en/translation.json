@@ -1,0 +1,68 @@
+{
+  "principal": {
+    "titulo": "Main Menu",
+    "repositorio": "Repository",
+    "repositorioDigital": "",
+    "biblioteca": "Library",
+    "navegador": "Browser",
+    "descubridor": "Discoverer",
+    "contacto": "Contact",
+    "campusvirtual": "Virtual Campus"
+  },
+  "sidebar": {
+    "explorar": "Explore",
+    "colecciones": "Collections",
+    "autores": "Authors",
+    "fechaPublicacion": "Issued Date",
+    "temas": "Subjects",
+    "titulos": "Titles",
+    "tiposDocumento": "Document Types",
+    "actasHistoricas": "Historical Records",
+    "actas": "Records"
+  },
+  "buscador": {
+    "buscar": "Search",
+    "busquedaAvanzada": "Advanced search"
+  },
+  "colecciones": {
+    "titulo": "Collections",
+    "articulos": "Documents and Articles",
+    "revistas": "Academia Publications",
+    "tesis": "Thesis",
+    "otras": "Others",
+    "articulos_1": "Documentary and sound archive of the School of Musical Composition",
+    "revistas_1": "Academy and Criticism",
+    "revistas_2": "Anthropologies of the South",
+    "revistas_3": "Aspects",
+    "revistas_4": "Castalia",
+    "revistas_5": "Chilean of Visual Anthropology",
+    "revistas_6": "Chilean Human Rights",
+    "revistas_7": "From the Academy",
+    "revistas_8": "AM",
+    "revistas_9": "Spaces",
+    "revistas_10": "Floating Island",
+    "revistas_11": "Paulo Freire",
+    "revistas_12": "Historical Time",
+    "tesis_1": "Postgraduate",
+    "tesis_2": "Undergraduate",
+    "tesis_3": "Special Second Degree Programs",
+    "otras_1": "Institutional Heritage Collection"
+  },
+  "recientes": {
+    "documentosRecientes": "Recent Submissions",
+    "verMas": "View more"
+  },
+  "banner": {
+    "titulo": "Welcome to our Digital Library",
+    "parrafo1": "The Digital Library of the Academia de Humanismo Cristiano University, collects, preserves and distributes the academic, investigative and patrimonial material in digital format, generated and published by the different Academic Units of the Institution. This repository was started in 2005 with the objective of storing and promoting the degree work of the undergraduate and postgraduate programs, as well as the different publications of the University.",
+    "parrafo2": "",
+    "parrafo3": ""
+  },
+  "footer": {
+    "bibliotecaCentral": "Central Library",
+    "sistemaBibliotecas": "Library System",
+    "informacionGeneral": "General information",
+    "renovaciones": "Renovations",
+    "copyright": "©2020 Library System / University Academy of Christian Humanism"
+  }
+}

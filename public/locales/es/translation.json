@@ -1,0 +1,69 @@
+{
+  "principal": {
+    "titulo": "Menú Principal",
+    "repositorio": "Repositorio",
+    "repositorioDigital": "",
+    "biblioteca": "Biblioteca",
+    "navegador": "Navegador",
+    "descubridor": "Descubridor",
+    "contacto": "Contacto",
+    "campusvirtual": "Campus Virtual"
+  },
+  "sidebar": {
+    "explorar": "Explorar",
+    "colecciones": "Colecciones",
+    "autores": "Autores",
+    "fechaPublicacion": "Fecha de publicación",
+    "temas": "Temas",
+    "titulos": "Títulos",
+    "tiposDocumento": "Tipos de Documento",
+    "actasHistoricas": "Actas Históricas",
+    "actas": "Actas"
+  },
+  "buscador": {
+    "buscar": "Buscar",
+    "busquedaAvanzada": "Búsqueda avanzada"
+  },
+  "colecciones": {
+    "titulo": "Colecciones",
+    "articulos": "Artículos y Documentos",
+    "revistas": "Revistas Academia",
+    "tesis": "Trabajos de Titulación",
+    "otras": "Audiovisual y Documentos",
+    "articulos_1": "Archivo de la Escuela de Composición Musical",
+    "articulos_2": "Material de Apoyo Docente",
+    "revistas_1": "Academia y crítica",
+    "revistas_2": "Antropologías del Sur",
+    "revistas_3": "Aspectos",
+    "revistas_4": "Castalia",
+    "revistas_5": "Revista chilena de antropología visual",
+    "revistas_6": "Revista chilena de derechos humanos",
+    "revistas_7": "Revista de la Academia",
+    "revistas_8": "AM",
+    "revistas_9": "Espacios",
+    "revistas_10": "Isla flotante",
+    "revistas_11": "Paulo Freire",
+    "revistas_12": "Tiempo histórico",
+    "tesis_1": "Postgrado",
+    "tesis_2": "Pregrado",
+    "tesis_3": "Programas Especiales de Segunda Titulación",
+    "otras_1": "Colección Patrimonial Institucional"
+  },
+  "recientes": {
+    "documentosRecientes": "Documentos Recientes",
+    "verMas": "Ver más"
+  },
+  "banner": {
+    "titulo": "Bienvenidos a nuestra Biblioteca Digital",
+    "parrafo1": "La Biblioteca Digital de la Universidad Academia de Humanismo Cristiano, recopila, preserva y distribuye el material académico, investigativo y patrimonial en formato digital, generado y publicado por las distintas Unidades Académicas de la Institución. Este repositorio se inició en el año 2005 con objetivo almacenar y promover los trabajos de titulación de las Carreras de pre y post grado, así como las diferentes publicaciones de la Universidad."
+  },
+  "footer": {
+    "bibliotecaCentral": "Biblioteca Central",
+    "sistemaBibliotecas": "Sistema de Bibliotecas",
+    "informacionGeneral": "Información general",
+    "renovaciones": "Renovaciones",
+    "copyright": "©2020 Sistema de Bibliotecas / Universidad Academia de Humanismo Cristiano"
+  }
+}
+
+
