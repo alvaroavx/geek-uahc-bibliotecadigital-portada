@@ -46,7 +46,7 @@ function Collections() {
         </div>
         <div>
           <div className="titulo_container">
-            <div className="titulo_portada">{t("colecciones.otras")}</div>
+            <div className="titulo_portada">{t("colecciones.audiovisual")}</div>
           </div>
           <div className="carousel">
             <div className="slides articulos">
@@ -75,6 +75,12 @@ function Collections() {
                   <div className="coleccion articulos">
                     <div className="imagen"></div>
                     <div className="nombre small">{t("colecciones.articulos_1")}</div>
+                  </div>
+                </a>
+                <a href="http://bibliotecadigital.academia.cl/xmlui/handle/123456789/5982">
+                  <div className="coleccion articulos">
+                    <div className="imagen"></div>
+                    <div className="nombre small">{t("colecciones.audiovisual_1")}</div>
                   </div>
                 </a>
               </Carousel>

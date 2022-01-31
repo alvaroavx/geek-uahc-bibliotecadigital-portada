@@ -29,7 +29,7 @@
     "articulos": "Documents and Articles",
     "revistas": "Academia Publications",
     "tesis": "Thesis",
-    "otras": "Others",
+    "audiovisual": "Audiovisuals and Documents",
     "articulos_1": "Documentary and sound archive of the School of Musical Composition",
     "revistas_1": "Academy and Criticism",
     "revistas_2": "Anthropologies of the South",
@@ -46,7 +46,8 @@
     "tesis_1": "Postgraduate",
     "tesis_2": "Undergraduate",
     "tesis_3": "Special Second Degree Programs",
-    "otras_1": "Institutional Heritage Collection"
+    "otras_1": "Institutional Heritage Collection",
+    "audiovisual_1": "Audiovisual Support Material"
   },
   "recientes": {
     "documentosRecientes": "Recent Submissions",

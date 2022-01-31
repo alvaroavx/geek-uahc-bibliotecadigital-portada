@@ -29,7 +29,7 @@
     "articulos": "Artículos y Documentos",
     "revistas": "Revistas Academia",
     "tesis": "Trabajos de Titulación",
-    "otras": "Audiovisual y Documentos",
+    "audiovisual": "Audiovisual y Documentos",
     "articulos_1": "Archivo de la Escuela de Composición Musical",
     "articulos_2": "Material de Apoyo Docente",
     "revistas_1": "Academia y crítica",
@@ -47,7 +47,8 @@
     "tesis_1": "Postgrado",
     "tesis_2": "Pregrado",
     "tesis_3": "Programas Especiales de Segunda Titulación",
-    "otras_1": "Colección Patrimonial Institucional"
+    "otras_1": "Colección Patrimonial Institucional",
+    "audiovisual_1": "Material de Apoyo Audiovisual"
   },
   "recientes": {
     "documentosRecientes": "Documentos Recientes",
