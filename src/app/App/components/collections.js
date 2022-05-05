@@ -83,6 +83,12 @@ function Collections() {
                     <div className="nombre small">{t("colecciones.audiovisual_1")}</div>
                   </div>
                 </a>
+                <a href="http://bibliotecadigital.academia.cl/xmlui/handle/123456789/6071">
+                  <div className="coleccion articulos">
+                    <div className="imagen"></div>
+                    <div className="nombre small">{t("colecciones.libros")}</div>
+                  </div>
+                </a>
               </Carousel>
             </div>
           </div>
@@ -166,6 +172,12 @@ function Collections() {
                 <div className="coleccion revistas">
                   <div className="imagen"></div>
                   <div className="nombre">{t("colecciones.revistas_12")}</div>
+                </div>
+              </a>
+              <a href="http://bibliotecadigital.academia.cl/xmlui/handle/123456789/395">
+                <div className="coleccion revistas">
+                  <div className="imagen"></div>
+                  <div className="nombre">{t("colecciones.revistas_13")}</div>
                 </div>
               </a>
               </Carousel>

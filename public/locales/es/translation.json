@@ -29,7 +29,7 @@
     "articulos": "Artículos y Documentos",
     "revistas": "Revistas Academia",
     "tesis": "Trabajos de Titulación",
-    "audiovisual": "Audiovisual y Documentos",
+    "audiovisual": "Audiovisual, Libros y Documentos",
     "articulos_1": "Archivo de la Escuela de Composición Musical",
     "articulos_2": "Material de Apoyo Docente",
     "revistas_1": "Academia y crítica",
@@ -44,11 +44,13 @@
     "revistas_10": "Isla flotante",
     "revistas_11": "Paulo Freire",
     "revistas_12": "Tiempo histórico",
+    "revistas_13": "Revista Actos",
     "tesis_1": "Postgrado",
     "tesis_2": "Pregrado",
     "tesis_3": "Programas Especiales de Segunda Titulación",
     "otras_1": "Colección Patrimonial Institucional",
-    "audiovisual_1": "Material de Apoyo Audiovisual"
+    "audiovisual_1": "Material de Apoyo Audiovisual",
+    "libros": "Libros"
   },
   "recientes": {
     "documentosRecientes": "Documentos Recientes",
